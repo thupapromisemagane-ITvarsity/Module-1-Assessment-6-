@@ -1,0 +1,26 @@
+table{
+width:100%
+}
+#table{
+    border-bottom-color: antiquewhite;
+    
+}#top{
+    background-color: aqua;
+    text-align: center;
+}
+#text{
+    background-color: antiquewhite;
+    text-align: center;
+    font-family: monospace;
+    text-decoration: none;
+}
+#list{
+    background-color: aquamarine;
+}
+#Buy{
+    background-position: bottom;
+    
+}
+#zz tr{
+    height: auto;
+}
